@@ -1,0 +1,1 @@
+from keyboards_veg.veg_client import kb_client_veg
